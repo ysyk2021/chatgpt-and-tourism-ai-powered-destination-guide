@@ -1,5 +1,3 @@
-Importance of Providing Personalized Destination Guides for Tourists
-===========================================================================================================
 
 In this chapter, we will explore the basics of the tourism industry and the importance of providing personalized destination guides for tourists.
 

@@ -1,5 +1,3 @@
-Explanation of Tourism Industry and its Importance
-================================================================
 
 Tourism is a vital industry that plays a significant role in the global economy. According to the World Travel and Tourism Council, the travel and tourism industry contributed 10.4% to the world's GDP and provided employment for over 319 million people in 2019. The growth of the tourism industry has been remarkable, with an increasing number of people traveling domestically and internationally.
 

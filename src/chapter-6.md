@@ -1,5 +1,3 @@
-Chapter 5: Implementing ChatGPT in Tourism Industry
-===================================================
 
 ChatGPT is an AI-powered language model that can be used to create a personalized destination guide for travelers. In this chapter, we will discuss the steps to implement ChatGPT in tourism industry and best practices for using it effectively.
 

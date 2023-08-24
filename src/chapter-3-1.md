@@ -1,5 +1,3 @@
-Factors Affecting Tourism Industry
-=============================================================================
 
 The tourism industry is affected by various factors that can create challenges for tourism providers and impact the tourist experience. In this chapter, we will explore these factors and their impact on the tourism industry.
 

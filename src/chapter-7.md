@@ -1,5 +1,3 @@
-Chapter 6: Future of Tourism Industry with ChatGPT
-==================================================
 
 As ChatGPT and Tourism continue to evolve, they have the potential to revolutionize the tourism industry. In this chapter, we will explore the potential advancements, emerging trends, and challenges in the future of the tourism industry with ChatGPT.
 

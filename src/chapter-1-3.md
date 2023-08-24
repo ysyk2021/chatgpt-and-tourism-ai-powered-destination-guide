@@ -1,5 +1,3 @@
-The Role of ChatGPT in Creating an AI-Powered Destination Guide
-=============================================================================
 
 The tourism industry is constantly evolving, and technology is playing an increasingly important role in shaping the travel experience. Artificial intelligence (AI) and chatbots are revolutionizing how tourism providers interact with customers and provide personalized recommendations.
 

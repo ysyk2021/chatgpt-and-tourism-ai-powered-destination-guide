@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 ChatGPT is an AI language model developed by OpenAI that uses deep learning to generate human-like text. It was first introduced in June 2020 and has since become a widely used tool for generating natural language responses.
 

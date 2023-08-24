@@ -1,5 +1,3 @@
-Steps to implement ChatGPT in tourism industry
-===================================================================================================
 
 ChatGPT can be a valuable tool for tourism businesses looking to create an AI-powered destination guide. In order to successfully implement ChatGPT, it is important to follow a series of steps. In this chapter, we will discuss the steps to implement ChatGPT in tourism industry.
 

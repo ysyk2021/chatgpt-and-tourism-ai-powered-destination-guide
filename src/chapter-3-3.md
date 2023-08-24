@@ -1,5 +1,3 @@
-Impact of These Challenges on Tourist Experience
-===========================================================================================
 
 The tourism industry faces various challenges that can impact the tourist experience. In this chapter, we will explore these challenges and their impact on the tourist experience.
 

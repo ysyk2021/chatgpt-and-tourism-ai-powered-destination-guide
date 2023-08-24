@@ -1,5 +1,3 @@
-Definition of Tourism Industry
-=====================================================================
 
 The tourism industry is one of the largest and fastest-growing industries in the world, encompassing all activities related to travel and leisure. It includes a wide range of businesses such as accommodations, transportation, attractions, and services such as food and beverage and tour operations.
 

@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Tourism
-=================================================
 
 Introduction to AI and Chatbots
 -------------------------------

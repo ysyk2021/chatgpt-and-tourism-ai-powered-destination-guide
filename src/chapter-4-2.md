@@ -1,5 +1,3 @@
-How AI and Chatbots Can Improve Tourist Experience
-=====================================================================================================
 
 AI and chatbots have the potential to revolutionize the tourism industry by providing personalized recommendations, customer service and support, and assisting with travel planning. In this chapter, we will explore the role of AI and chatbots in tourism and how they can improve the tourist experience.
 

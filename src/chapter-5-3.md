@@ -1,5 +1,3 @@
-How ChatGPT can be used for creating an AI-powered destination guide
-======================================================================================================
 
 ChatGPT is a powerful AI language model that can be used to create an AI-powered destination guide. ChatGPT is capable of generating natural language responses to user queries and providing personalized recommendations based on user preferences.
 

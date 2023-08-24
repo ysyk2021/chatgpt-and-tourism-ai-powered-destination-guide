@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-==================================================================================
 
 Artificial intelligence (AI) and chatbots have the potential to revolutionize the tourism industry by providing personalized recommendations, customer service and support, and assisting with travel planning. In this chapter, we will introduce AI and chatbots and their role in tourism.
 

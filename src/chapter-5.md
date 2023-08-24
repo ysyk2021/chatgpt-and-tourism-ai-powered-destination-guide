@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will delve into ChatGPT and its features and capabilities. Additionally, we will explore how ChatGPT can be used for creating an AI-powered destination guide.
 

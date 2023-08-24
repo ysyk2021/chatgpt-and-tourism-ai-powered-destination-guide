@@ -1,4 +1,3 @@
-# Introduction
 
 Tourism is a rapidly expanding industry that provides opportunities for people to explore the world, relax, and learn about new cultures. However, planning a trip can be a daunting task, with so many options and variables to consider. With the advent of artificial intelligence (AI) technology, however, there may be new hope for those looking to plan their dream vacation.
 
