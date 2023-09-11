@@ -1,5 +1,4 @@
-Chapter: Conclusion and Future Outlook
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we reflect on the journey of ChatGPT as an AI-powered destination guide and explore the future outlook for both ChatGPT and the tourism industry. We summarize the key insights gained from the previous chapters and discuss the potential advancements and possibilities that lie ahead.
 

@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Can Be Used for Creating an AI-Powered Destination Guide
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT, an AI language model, can be utilized to create an AI-powered destination guide. We will examine the capabilities of ChatGPT and its potential applications in providing personalized recommendations, answering queries, and enhancing the overall travel experience.
 

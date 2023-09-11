@@ -1,5 +1,4 @@
-Chapter: Introduction to AI and Chatbots
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introduction to Artificial Intelligence (AI) and chatbots, highlighting their significance in the context of creating an AI-powered destination guide. Understanding the basics of AI and chatbot technology is essential for leveraging their capabilities effectively.
 

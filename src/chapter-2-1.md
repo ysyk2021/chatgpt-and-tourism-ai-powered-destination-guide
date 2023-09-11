@@ -1,5 +1,4 @@
-Chapter: Definition of the Tourism Industry
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide a comprehensive definition of the tourism industry. We will explore its various components, stakeholders, and the economic and social impact it has on destinations worldwide.
 

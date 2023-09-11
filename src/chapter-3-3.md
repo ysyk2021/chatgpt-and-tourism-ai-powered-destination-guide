@@ -1,5 +1,4 @@
-Chapter: Impact of These Challenges on Tourist Experience
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the impact that the challenges discussed earlier have on the overall tourist experience. Understanding these challenges and their implications is crucial for developing effective strategies to mitigate their negative effects and enhance the satisfaction and enjoyment of travelers.
 

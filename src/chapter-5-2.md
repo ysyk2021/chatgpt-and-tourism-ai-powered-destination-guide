@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the features and capabilities of ChatGPT, an AI language model that powers the AI-powered destination guide. Understanding these features and capabilities helps us comprehend the potential of ChatGPT in providing intelligent and personalized assistance to travelers.
 

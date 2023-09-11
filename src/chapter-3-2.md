@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by Tourism Businesses
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common challenges faced by tourism businesses in adopting and implementing AI-powered destination guides like ChatGPT. Understanding these challenges is crucial for businesses to navigate potential obstacles and leverage the benefits of AI technology effectively.
 

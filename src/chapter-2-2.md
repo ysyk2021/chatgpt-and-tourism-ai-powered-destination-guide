@@ -1,5 +1,4 @@
-Chapter: Different Types of Tourism Businesses
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of tourism businesses that play a vital role in the travel and hospitality industry. Understanding these different business models helps us comprehend the diverse services and offerings available to tourists.
 

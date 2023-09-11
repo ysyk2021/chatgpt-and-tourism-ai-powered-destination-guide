@@ -1,5 +1,4 @@
-Chapter: Steps to Implement ChatGPT in the Tourism Industry
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the key steps involved in implementing ChatGPT and AI-powered chatbots in the tourism industry. These steps will guide tourism businesses in leveraging ChatGPT effectively to enhance customer experiences, provide personalized recommendations, and streamline their operations.
 

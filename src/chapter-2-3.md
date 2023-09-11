@@ -1,5 +1,4 @@
-Chapter: Importance of Providing Personalized Destination Guides for Tourists
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the significance of offering personalized destination guides for tourists. We will explore how AI-powered chatbots can enhance the travel experience by delivering tailored recommendations, relevant information, and customized itineraries to cater to individual preferences and needs.
 

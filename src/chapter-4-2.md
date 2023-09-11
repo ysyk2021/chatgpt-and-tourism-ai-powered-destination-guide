@@ -1,5 +1,4 @@
-Chapter: How AI and Chatbots Can Improve Tourist Experience
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ways in which AI and chatbot technologies can significantly enhance the tourist experience. From personalized recommendations to seamless assistance, these advancements have transformed the way travelers interact with tourism services, making their journeys more enjoyable and efficient.
 

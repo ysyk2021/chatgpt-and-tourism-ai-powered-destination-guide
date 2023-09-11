@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Creating an AI-Powered Destination Guide
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter outlines the best practices for utilizing ChatGPT and conversational AI techniques to create an AI-powered destination guide. By following these practices, tourism organizations can enhance the user experience, provide personalized recommendations, and offer valuable insights to travelers.
 

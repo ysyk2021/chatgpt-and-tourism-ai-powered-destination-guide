@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into what exactly ChatGPT is and how it powers the AI-powered destination guide in the context of tourism. We will explore its architecture, training process, and unique characteristics that make it a powerful tool for providing intelligent assistance to travelers.
 
